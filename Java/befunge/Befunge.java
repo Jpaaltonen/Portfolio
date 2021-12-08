@@ -42,7 +42,7 @@ public class Befunge
         
         //Arithmetic operation variables
         int a,b; 
-        int pc=0;
+
         while(s.get(y).charAt(x)!='@') //Loop until we reach the character that terminates the execution
         {
             switch(s.get(y).charAt(x))
