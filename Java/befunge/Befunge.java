@@ -5,7 +5,6 @@
 package befunge;
 import java.util.*;
 /**
- *
  * @author J-P
  * Befunge interpreter
  * Works to at least some degree, though some of the codes from the 'net crash
