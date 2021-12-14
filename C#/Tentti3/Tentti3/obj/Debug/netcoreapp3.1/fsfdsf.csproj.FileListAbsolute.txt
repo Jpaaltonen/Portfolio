@@ -1,0 +1,13 @@
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.exe
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.deps.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.runtimeconfig.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.dll
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\bin\Debug\netcoreapp3.1\fsfdsf.pdb
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.AssemblyInfo.cs
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.dll
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.pdb
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Projektit\Tentti3\Tentti3\obj\Debug\netcoreapp3.1\fsfdsf.genruntimeconfig.cache
