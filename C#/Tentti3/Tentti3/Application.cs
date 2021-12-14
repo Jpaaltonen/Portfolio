@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using static System.Console;
 using System.Linq;
-using System.Reflection; 
+using System.Reflection;
+
+//A demo of a console application for querying data using Linq
+//Originally an exam task for a course in advanced concepts of C#
 
 namespace Tentti3
 {
