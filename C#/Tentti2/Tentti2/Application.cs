@@ -6,6 +6,7 @@ using static System.Console;
 //A small demo of a console based application that utilizes events
 //For showing a number of jobs, their performers and a timeframe
 //Each in it's own window
+//Originally an exam task for a course in advanced concepts of C#
 
 namespace Tentti2
 {
