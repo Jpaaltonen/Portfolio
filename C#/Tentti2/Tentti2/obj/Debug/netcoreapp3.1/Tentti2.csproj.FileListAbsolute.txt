@@ -24,3 +24,16 @@ D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Tentti2\Ten
 D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.dll
 D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.pdb
 D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Edistynyt C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.genruntimeconfig.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.exe
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.deps.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.runtimeconfig.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.dll
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\bin\Debug\netcoreapp3.1\Tentti2.pdb
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.csprojAssemblyReference.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.AssemblyInfo.cs
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.dll
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.pdb
+D:\Onedrive\OneDrive - Satakunnan ammattikorkeakoulu Oy\Portfolio\Portfolio\C#\Tentti2\Tentti2\obj\Debug\netcoreapp3.1\Tentti2.genruntimeconfig.cache

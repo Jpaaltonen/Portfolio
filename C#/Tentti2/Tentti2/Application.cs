@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using static System.Console;
 
+//A small demo of a console based application that utilizes events
+//For showing a number of jobs, their performers and a timeframe
+//Each in it's own window
+
 namespace Tentti2
 {
     static class Application

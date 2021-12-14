@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Edistynyt C#\\Tentti2\\Tentti2\\Tentti2.csproj",
+      "projectUniqueName": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Portfolio\\Portfolio\\C#\\Tentti2\\Tentti2\\Tentti2.csproj",
       "projectName": "Tentti2",
-      "projectPath": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Edistynyt C#\\Tentti2\\Tentti2\\Tentti2.csproj",
+      "projectPath": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Portfolio\\Portfolio\\C#\\Tentti2\\Tentti2\\Tentti2.csproj",
       "packagesPath": "C:\\Users\\J-P\\.nuget\\packages\\",
-      "outputPath": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Edistynyt C#\\Tentti2\\Tentti2\\obj\\",
+      "outputPath": "D:\\Onedrive\\OneDrive - Satakunnan ammattikorkeakoulu Oy\\Portfolio\\Portfolio\\C#\\Tentti2\\Tentti2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\J-P\\AppData\\Roaming\\NuGet\\NuGet.Config",
