@@ -70,26 +70,26 @@ public:
             for (int x = 0; x < w; x++)
             {
                 brightness = 0.0;
-                //For each pixel, calculate it's distance from the center of each metaball
+                //For each pixel, apply the inverse square rule for every source
                 //Add these values together to get a brightness value
                 for (int i = 0; i < maxSource; i++)
                 {
                     if (((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y)) > 0)
-                        brightness += (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y))) / .001;
+                        brightness += 1000*(1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y)));
 
                     //Do the same for RGB components
                     if (source[i].col == 0)
                     {
-                        r += (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y))) / .001;
+                        r += 1000 * (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y)));
                     }
 
                     else if (source[i].col == 1)
                     {
-                        g += (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y))) / .001;
+                        g += 1000 * (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y)));
                     }   
 
                     else
-                        b += (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y))) / .001;
+                        b += 1000 * (1.0 / ((x - source[i].x) * (x - source[i].x) + (y - source[i].y) * (y - source[i].y)));
                 }                
                 r += brightness / 1.5;
                 g += brightness / 1.5;
