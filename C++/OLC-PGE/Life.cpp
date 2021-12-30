@@ -46,7 +46,7 @@ public:
 				if (y > 0 && y < gh - 1 && x>0 && x < gw - 1)
 				{
 					//Loop through each cell surrounding the current one - jump over, if at the current cell
-					//Count the alive cells
+					//Count the alive cells from the previous cycle
 					for (int i = -1; i < 2; i++)
 						for (int j = -1; j < 2; j++)
 						{
@@ -56,7 +56,7 @@ public:
 								cnt++;
 						}
 
-					//Apply the rules to new cells 
+					//Apply the rules to the cells in the next cycle
 					//Alive cells stay alive with 2 or 3 alive neighbours
 					//Dead cells come alive with exactly 3 alive neighbours
 					//All other cells die
@@ -139,27 +139,33 @@ public:
 		if (!execute && mx > 0 && mx < gw - 1 && my > 0 && my < gh - 1 && GetMouse(0).bPressed)
 			cells[my * gw + mx].alive = !cells[my * gw + mx].alive;
 
+		//Pause
 		if (GetKey(Key::SPACE).bPressed)
 		{
 			execute = !execute;
 		}
+
+		//Clear
 		if (GetKey(Key::C).bPressed)
 		{
 			execute = false;
 			clearGrid();
 		}
 
+		//Randomize
 		if (GetKey(Key::R).bPressed)
 		{
 			makeGrid();
 		}
 
+		//Increase speed
 		if (GetKey(Key::NP_ADD).bPressed)
 		{
 			if (limit < 0.02f)
 				limit = 0.02f;
 		}
 
+		//Decrease speed
 		if (GetKey(Key::NP_SUB).bPressed)
 		{
 			if (limit > 0.3f)
